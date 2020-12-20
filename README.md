@@ -153,9 +153,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Alex Alvarez - <alexalvarez@mail.com>
 
-Project Link: [https://github.com/AlexAlvarez092/PY-Conways-Game_name](https://github.com/AlexAlvarez092/PY-Conways-Game)
+Project Link: [https://github.com/AlexAlvarez092/PY-Quiz-Generator/][https://github.com/AlexAlvarez092/PY-Quiz-Generator/]
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
