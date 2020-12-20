@@ -90,7 +90,7 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Execute
    ```sh
-  python 'filename.py' --grid-size 32 --interval 500 --glider
+  python animation.py --grid-size 32 --interval 500 --glider
    ```
 
 
