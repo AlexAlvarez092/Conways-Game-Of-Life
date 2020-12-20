@@ -86,15 +86,18 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 
-   ```sh
-   git clone https://github.com/AlexAlvarez092/PY-Conways-Game.git
-   ```
+
+```sh
+git clone https://github.com/AlexAlvarez092/PY-Conways-Game.git
+```
+
 
 2. Execute
 
-   ```sh
-  python animation.py --grid-size 32 --interval 500 --glider
-   ```
+
+```sh
+python animation.py --grid-size 32 --interval 500 --glider
+```
 
 
 
