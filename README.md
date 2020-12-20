@@ -14,7 +14,7 @@
   <h1 align="center">Conways Game Of Life (Python Implementation)</h1>
 
   <p align="center">
-    project_description
+    Conways’s Game Of Life is a Cellular Automation Method created by John Conway.
     <br />
     <a href="https://github.com/AlexAlvarez092/PY-Conways-Game"><strong>Explore the docs »</strong></a>
     <br />
